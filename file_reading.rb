@@ -1,3 +1,4 @@
+
 class FileReading
 	attr_reader :file
 	def initialize(file_to_open="text.txt")
