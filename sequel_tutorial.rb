@@ -24,3 +24,7 @@ end
 DB.fetch("SELECT * FROM people") do |row|
   puts row[:first_name]
 end
+
+#ActiveRecord
+
+#
